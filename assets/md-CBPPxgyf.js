@@ -1,0 +1,12 @@
+import{_ as o}from"./slidev/CodeBlockWrapper.vue_vue_type_script_setup_true_lang-CXhmPU8u.js";import{o as p,b as k,w as e,g as s,d as h,m as d,ad as i,v as c,x as m,T as t}from"./modules/vue-Bb5JUXOJ.js";import{I as A}from"./slidev/default-o8JbaaNk.js";import{u as D,f as g}from"./slidev/context-u9WVZ7K4.js";import"./modules/unplugin-icons-OiqrM49x.js";import"./index-DoqlTbM8.js";import"./modules/shiki-CgH6uPBv.js";import"./slidev/TitleIcon.vue_vue_type_script_setup_true_lang-D4hgpOf-.js";const P={__name:"slides.md__slidev_62",setup(E){const{$clicksContext:n,$frontmatter:l}=D();return n.setup(),(f,a)=>{const r=o;return p(),k(A,c(m(t(g)(t(l),61))),{default:e(()=>[a[1]||(a[1]=s("h2",null,"Spine Render Loop",-1)),h(r,d({},{title:"",ranges:[]}),{default:e(()=>[...a[0]||(a[0]=[s("pre",{class:"shiki shiki-themes vitesse-dark vitesse-light slidev-code",style:{"--shiki-dark":"#dbd7caee","--shiki-light":"#393a34","--shiki-dark-bg":"#121212","--shiki-light-bg":"#ffffff"}},[s("code",{class:"language-md"},[s("span",{class:"line"},[s("span",{style:{"--shiki-dark":"#DBD7CAEE","--shiki-light":"#393A34"}},"Frame Loop:")]),i(`
+`),s("span",{class:"line"}),i(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-dark":"#DBD7CAEE","--shiki-light":"#393A34"}},"Animation Update")]),i(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-dark":"#DBD7CAEE","--shiki-light":"#393A34"}},"      ↓")]),i(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-dark":"#DBD7CAEE","--shiki-light":"#393A34"}},"Mode Check")]),i(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-dark":"#DBD7CAEE","--shiki-light":"#393A34"}},"      ↓")]),i(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-dark":"#DBD7CAEE","--shiki-light":"#393A34"}},"Realtime → 計算 Bone + Mesh")]),i(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-dark":"#DBD7CAEE","--shiki-light":"#393A34"}},"Cache    → 讀取快取 Mesh")]),i(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-dark":"#DBD7CAEE","--shiki-light":"#393A34"}},"      ↓")]),i(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-dark":"#DBD7CAEE","--shiki-light":"#393A34"}},"Render Data")]),i(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-dark":"#DBD7CAEE","--shiki-light":"#393A34"}},"      ↓")]),i(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-dark":"#DBD7CAEE","--shiki-light":"#393A34"}},"Submit to GPU")])])],-1)])]),_:1},16)]),_:1},16)}}};export{P as default};
